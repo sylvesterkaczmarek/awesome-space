@@ -194,6 +194,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [LROC QuickMap](https://quickmap.lroc.asu.edu) - Quality 2D and 3D maps of the moon
 * [NASA's Planetary Data System](https://pds.jpl.nasa.gov/) - A long-term archive of digital data products returned from NASA's planetary missions
 * [NASA's Solar System Treks](https://trek.nasa.gov/) - Access surface elevation profiles, sun angles, 3D print files, and VR experiences in our solar system
+* [Planetary Atlas](https://planetatlas.org) - Zoomable maps of 14 worlds built from open NASA, USGS, ESA and JAXA imagery, with IAU nomenclature and surface mission landing sites
 
 #### Orbits
 
